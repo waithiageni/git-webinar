@@ -6,6 +6,8 @@ This repository is a collection of useful resources used in the git-webinar to h
 
 * View the [Introductory video](demo_videos/git-webinar-introduction.mp4) to understand what to expect out of this session.
 
+* Refer [this](https://medium.com/@divya_bhushan/git-basic-terms-and-commands-quick-guide-beginner-friendly-d116ba68b3fa) medium article to explore more about Git.
+
 ## Git
 
 [Git](https://medium.com/@divya_bhushan/git-basic-terms-and-commands-quick-guide-beginner-friendly-d116ba68b3fa) is an open source distributed Version Control System (VCS).
@@ -22,7 +24,7 @@ Explore the power of Git when it comes to -
 
 ## Presentation material
 
-* Read through the [Webinar slide](ppt/git_tutorial.ppt) for a complete hands-on tutorial.
+* Read through the [Webinar slide](PPT/Git_Webinar.pptx) for a complete hands-on tutorial.
 
 * Watch the video on how to [add your project files to the local Git repository](https://www.youtube.com/watch?time_continue=1&v=Lwfq_pYqads&feature=emb_logo).
 
@@ -34,18 +36,22 @@ Explore the power of Git when it comes to -
 
 ## Contribute
 
-Please feel free to pour in your suggestions and feedbacks.
-
-Any FAQ regarding the session is most welcome.
+Kindly feel free to post in your questions, comments and suggestions -> [here](FAQ.md)
 
 ## Getting Started
 
-Create a [GitHub](https://github.com/) account if you do not have one already!!!
+Create a <button>
+<a href="https://github.com/">GitHub</a>
+</button> account if you do not have one already!!!
 
 1.[Fork](https://github.com/divyabhushan/git-webinar) this repository. Click on the <a href="https://github.com/vinitshahdeo/Water-Monitoring-System/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 2.Clone the forked repository from your Github page.
-Click on the green **Code** button to copy the clone url link.
+Click on the <button style="background-color: rgb(66, 187, 66); border-radius: 5px; border-color: transparent;">
+<a class="fa fa-download" aria-hidden="true" style="color: white;"> Code</a>
+</button> button to copy the clone url link.
 
 ```bash
 git clone https://github.com/<your-github-username>/git-webinar.git
@@ -78,6 +84,8 @@ git push origin
 
 6.Create a [PR](https://github.com/divyabhushan/git-webinar/compare)
 
+!!! Video will be uploaded soon
+
 Click on **Compare across forks**.
 
 This compares your forked repo and the git-webinar repo for the additional commits that you created.
@@ -87,7 +95,7 @@ Click on the **Create pull request** button.
     Note:
     The default PR template comes up, fill in what's appropriate for your changes.
 
-7. **Congratulations!**, you've made your first open-source contribution.
+7.**Congratulations!**, you've made your first open-source contribution.
 
 This is just the beginning !!!
 
@@ -95,7 +103,9 @@ Go ahead and explore awesome git repositories and contribute your innovative ide
 
 ## Useful Resources
 
-[Pro Git](https://git-scm.com/book/en/v2) ebook written by Scott Chacon and Ben Straub.
+* [Pro Git](https://git-scm.com/book/en/v2) ebook written by Scott Chacon and Ben Straub.
+
+* [Git: Basic Terms and Commands quick guide-Beginner-friendly](https://medium.com/@divya_bhushan/git-basic-terms-and-commands-quick-guide-beginner-friendly-d116ba68b3fa)
 
 **Repository Admin**: [Divya Bhushan](https://www.linkedin.com/in/divyabhushan/)
 
